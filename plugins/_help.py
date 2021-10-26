@@ -70,7 +70,7 @@ async def _help(ult):
                     await eor(ult, get_string("help_1").format(plug), time=5)
         except BaseException as er:
             LOGS.exception(er)
-            await eor(ult, "Error 🤔 occured.")
+            await eor(ult, "Error 🥴 occured.")
     else:
         try:
             results = await ult.client.inline_query(asst.me.username, "ultd")
