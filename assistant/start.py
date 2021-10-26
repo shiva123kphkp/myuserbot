@@ -34,7 +34,7 @@ Owner_info_msg = (
 _settings = [
     [
         Button.inline("API Kᴇʏs", data="apiset"),
-        Button.inline("Pᴍ Bᴏᴛ", data="chatbot"),
+        Button.inline("Pᴍ ssᴛ", data="chatbot"),
     ],
     [
         Button.inline("Aʟɪᴠᴇ", data="alvcstm"),
@@ -49,14 +49,14 @@ _settings = [
 
 _start = [
     [
-        Button.inline("Lᴀɴɢᴜᴀɢᴇ 🌐", data="lang"),
+        Button.inline("Lᴀɴɢᴜᴀɢᴇ ⚡", data="lang"),
         Button.inline("Sᴇᴛᴛɪɴɢs ⚙️", data="setter"),
     ],
     [
         Button.inline("Sᴛᴀᴛs ✨", data="stat"),
-        Button.inline("Bʀᴏᴀᴅᴄᴀsᴛ 📻", data="bcast"),
+        Button.inline("Bʀᴏᴀᴅᴄᴀsᴛ 📰", data="bcast"),
     ],
-    [Button.inline("TɪᴍᴇZᴏɴᴇ 🌎", data="tz")],
+    [Button.inline("TɪᴍᴇZᴏɴᴇ 🔖", data="tz")],
 ]
 
 
